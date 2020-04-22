@@ -1,3 +1,5 @@
+README is incomplete
+
 # class SUI
 
 The class **SUI** has certain functions which can help you create a retro style menu.  
