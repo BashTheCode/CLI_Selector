@@ -38,5 +38,11 @@ Now you have to call the **CLI()** method and the menu will be presented on the 
 
 _STEP 4:_  
 The options that are entered into the **feed()** method are enumerated from 1 to x (Where x is the number of options). To know which option the user has selected, **OBJ.output** is an **int** value which stores the serial number of the option selected.  
-  
+>
+
+	if(OBJ.output == 1){//something}
+	else if(OBJ.output == 2){//something else}
+	else if(OBJ.output == 3){//something other than something else}
+	else{//something totally odd}
+
 And that's it!
